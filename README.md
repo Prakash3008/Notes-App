@@ -1,4 +1,9 @@
+This is just a front-end application created with ReactJS. 
+Heroku application link : https://notes-beta-react.herokuapp.com/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
 
 ## Available Scripts
 
