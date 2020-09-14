@@ -1,9 +1,13 @@
-.note{
-  width: 400px;
-  height: 250px;
-  background-color: cyan;
-  padding: 15px;
-  border: 2px solid greenyellow;
-  box-shadow: 1px 5px 11px rgba(5, 5, 5, 4);
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
 
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
 }
